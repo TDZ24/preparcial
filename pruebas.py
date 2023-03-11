@@ -1,0 +1,1 @@
+print("No se le olvide a recorre una lista al revez para el examen")
